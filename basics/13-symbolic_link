@@ -1,2 +1,2 @@
 #!/bin/bash
-link /bin/ls /root/holbertonschool-shell/basics
+ln -s /bin/ls __ls__
